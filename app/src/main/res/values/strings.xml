@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MYFOGO</string>
+    <string name="add_description_hint">Add description here…</string>
+    <string name="photo_name">Photo Author</string>
+    <string name="description">Description here</string>
+    <string name="empty_email">Fill the Email Field</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="success_login">Login Successfully</string>
+    <string name="fail_login">Invalid Account</string>
+    <string name="permission_no_granted">Permission is not granted</string>
+    <string name="failed_retrofit_instance">Failed Retrofit Instance</string>
+    <string name="add_image_warning">Please add image first</string>
+    <string name="failed_take_pic">Failed to take picture</string>
+    <string name="fail_camera">Failed to show camera</string>
+    <string name="empty_data">Unfortunately, there\'s no photo right now</string>
+    <string name="camera_x">camera</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="name">Story Name</string>
+    <string name="date">Uploaded on %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="success_story">Story uploaded successfully</string>
+    <string name="user_created">User created</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="email_invalid">Email format is invalid</string>
+    <string name="password_invalid">Password must be at least 6 character</string>
+    <string name="name_hint">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="label_havent_account">Don\'t have account ?</string>
+    <string name="action_to_register">Register</string>
+    <string name="label_nama">Name</string>
+    <string name="action_register">Register</string>
+    <string name="label_have_account">Already have account ?</string>
+    <string name="action_to_login">Login</string>
+    <string name="add_story">Add New Story</string>
+    <string name="language">Language</string>
+    <string name="title_add_new_story">Add New Story</string>
+    <string name="map">Map</string>
+    <string name="title_activity_map_story">Maps Story</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type" translatable="false">Hybrid</string>
+    <string name="normal_type" translatable="false">Normal</string>
+    <string name="add_title_hint">Add title</string>
+    <string name="add_location_hint">Add location here..</string>
+    <string name="chat">CHAT</string>
+    <string name="telephone">TELEPHONE</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
