@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_cameraswitch_24.xml" value="0.157" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_add_fogo.xml" value="0.18" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_add_item.xml" value="0.18" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_camera.xml" value="0.11594202898550725" />

@@ -3,7 +3,7 @@
     <style name="Theme.MYFOGO" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/colorYellow</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimaryVariant">@color/colorGrey</item>
         <item name="colorOnPrimary">@color/colorGrey</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
@@ -13,4 +13,13 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    
+    <style name="ThemeSplashScreen" parent="Theme.MYFOGO">
+        <item name="actionBarTheme">@color/colorGrey</item>
+    </style>
+
+<!--    <style name="ThemeLoginRegister" parent="Theme.MYFOGO">
+        <item name="actionBarTheme">@color/colorGrey</item>
+        <item name="actionBarStyle">@style/Theme.MaterialComponents.DayNight.NoActionBar</item>
+    </style>-->
 </resources>
