@@ -4,12 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorYellow"
+    android:background="@color/colorDarkRed"
     tools:context=".ui.splashscreen.SplashScreenActivity">
 
     <androidx.appcompat.widget.AppCompatImageView
-        android:layout_width="250dp"
-        android:layout_height="300dp"
+        android:layout_width="350dp"
+        android:layout_height="400dp"
         android:src="@drawable/logomyfogo"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

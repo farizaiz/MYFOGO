@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorYellow"
+    android:background="@color/colorDarkRed"
     android:padding="30dp"
     tools:context=".ui.register.RegisterActivity">
 
@@ -51,7 +51,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:backgroundTint="@color/colorYellow"
+                android:backgroundTint="@color/colorDarkRed"
+                android:textColor="@color/white"
                 android:text="Register" />
 
             <TextView
