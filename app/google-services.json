@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "119686129953",
-    "project_id": "myfogo-71379",
-    "storage_bucket": "myfogo-71379.appspot.com"
+    "project_number": "827659067363",
+    "project_id": "myfogo-e3341",
+    "storage_bucket": "myfogo-e3341.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:119686129953:android:aead8c8f97e9df8481f660",
+        "mobilesdk_app_id": "1:827659067363:android:5de1bf6f406d7412c8cad6",
         "android_client_info": {
           "package_name": "com.capstoneproject.myfogo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "119686129953-dvrdp8ampborfon96bb0vqdr40v1geth.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.capstoneproject.myfogo",
-            "certificate_hash": "8d895e367cd7d7d7a644c33b67d0999085790129"
-          }
-        },
-        {
-          "client_id": "119686129953-mucep8km0udaa6vg48tdjeva24l5sjai.apps.googleusercontent.com",
+          "client_id": "827659067363-u76hjjrm3f472tu0qhhct8k8ujt1ppev.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyABzjRt4u64EpcBByWicmt7RWGSHc9QOh0"
+          "current_key": "AIzaSyBaC4fbL_ulMFWbtpi7ECyPMW62dk8zSZ0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "119686129953-mucep8km0udaa6vg48tdjeva24l5sjai.apps.googleusercontent.com",
+              "client_id": "827659067363-u76hjjrm3f472tu0qhhct8k8ujt1ppev.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

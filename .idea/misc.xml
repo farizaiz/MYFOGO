@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.157" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.157" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_cameraswitch_24.xml" value="0.157" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.157" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.157" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.157" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_add_fogo.xml" value="0.18" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_add_item.xml" value="0.18" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_camera.xml" value="0.11594202898550725" />
-        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_detail_fogo.xml" value="0.2" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_detail_fogo.xml" value="0.22" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_detail_item.xml" value="0.11594202898550725" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_main.xml" value="0.25" />
@@ -18,6 +23,7 @@
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_dashboard.xml" value="0.11594202898550725" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_home.xml" value="0.11594202898550725" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_notifications.xml" value="0.11594202898550725" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_user.xml" value="0.12364130434782608" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
       </map>
     </option>

@@ -21,6 +21,7 @@ class LoginActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         auth = FirebaseAuth.getInstance()
+        supportActionBar?.hide()
 
 
         binding.tvToRegister.setOnClickListener {
