@@ -28,6 +28,9 @@
             android:name=".ui.detail.DetailFogoActivity"
             android:exported="false" />
         <activity
+            android:name=".ui.item.AddFogoActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.register.RegisterActivity"
             android:exported="false" />
         <activity
