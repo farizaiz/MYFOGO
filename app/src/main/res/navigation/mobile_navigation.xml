@@ -12,10 +12,10 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.capstoneproject.myfogo.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_messages"
+        android:name="com.capstoneproject.myfogo.ui.messages.MessagesFragment"
+        android:label="@string/title_messages"
+        tools:layout="@layout/fragment_messages" />
 
     <fragment
         android:id="@+id/navigation_notifications"
@@ -28,4 +28,10 @@
         android:name="com.capstoneproject.myfogo.ui.profile.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
+
+    <activity
+        android:id="@+id/add_fogo"
+        android:name="com.capstoneproject.myfogo.ui.item.AddFogoActivity"
+        android:label="@string/title_add"
+        tools:layout="@layout/activity_add_fogo" />
 </navigation>
