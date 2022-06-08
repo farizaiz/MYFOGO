@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.157" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.157" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.157" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_cameraswitch_24.xml" value="0.157" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.157" />
@@ -17,28 +18,18 @@
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_maps.xml" value="0.11594202898550725" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_on_boarding.xml" value="0.22" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_register.xml" value="0.16" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_search.xml" value="0.22" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/activity_splash_screen.xml" value="0.11594202898550725" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_dashboard.xml" value="0.11594202898550725" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_home.xml" value="0.11594202898550725" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_notifications.xml" value="0.11594202898550725" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_profile.xml" value="0.12364130434782608" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/layout/fragment_user.xml" value="0.12364130434782608" />
         <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/drawable-v24/cardshape.xml" value="0.159" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_add_fogo.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_camera.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_detail_fogo.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_login.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_main.xml" value="0.1661600810536981" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_maps.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_on_boarding.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_on_dashboard.xml" value="0.25" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_register.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/activity_splash_screen.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/fragment_dashboard.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/fragment_home.xml" value="0.29257246376811596" />
-        <entry key="..\:/Users/james/StudioProjects/MYFOGO/app/src/main/res/layout/fragment_profile.xml" value="0.29257246376811596" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dev/CapstoneProject/MYFOGO/app/src/main/res/menu/map_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
