@@ -70,4 +70,14 @@ class LoginActivity : AppCompatActivity() {
                 }
             }
     }
+
+    override fun onStart() {
+        super.onStart()
+
+        if(auth.currentUser != null){
+            val i = Intent(this, MainActivity::class.java)
+            Toast.makeText(this, "Selamat datang, ${FirebaseAuth.getInstance().currentUser?.email}", Toast.LENGTH_SHORT).show()
+            startActivity(i)
+        }
+    }
 }
