@@ -51,7 +51,7 @@
 </ol>
 <h3>Get Started</h3>
 <ol>
-  <li>Register/Create new account</li>
+  <li>Register new account</li>
   <li>Login</li>
 </ol>
 <h3>How to use the app</h3>
