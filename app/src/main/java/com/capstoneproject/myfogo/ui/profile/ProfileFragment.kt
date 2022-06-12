@@ -62,7 +62,7 @@ class ProfileFragment : Fragment() {
             if (user.photoUrl != null) {
                 Picasso.get().load(user.photoUrl).into(binding.imgProfile)
             } else {
-                Picasso.get().load("https://bit.ly/3wc3Lcn").into(binding.imgProfile)
+                Picasso.get().load("https://drive.google.com/file/d/1gES3ocikGV9Ft8GTWo6VcoLgC7jeP6B4/view?usp=sharing").into(binding.imgProfile)
             }
         }
 
@@ -71,7 +71,7 @@ class ProfileFragment : Fragment() {
 
             val image = when {
                 ::imgUri.isInitialized -> imgUri
-                user?.photoUrl == null -> Uri.parse("https://bit.ly/3wc3Lcn")
+                user?.photoUrl == null -> Uri.parse("https://drive.google.com/file/d/1gES3ocikGV9Ft8GTWo6VcoLgC7jeP6B4/view?usp=sharing")
                 else -> user.photoUrl
             }
 
