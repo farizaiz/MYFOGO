@@ -18,9 +18,13 @@
 </ul>
 <h3>Machine Learning</h3>
 <ul>
-  <li>xxx</li>
-  <li>xxx</li>
-  <li>xxx</li>
+  <li>Searching datasets on kaggle <a href="https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables">Fresh and Stale Images of Fruits and Vegetables</a></li>
+  <li>Doing data and preprocessing.</li>
+  <li>Create an image classification model using the Convolutional Neural Network method.</li>
+  <li>Converting a TensorFlow model to Tensorflow Lite.</li>
+  <li>In training the tensorflow model we use Google Colab.</li>
+  <li>and here is the link to go to Google Colab: <a href="https://drive.google.com/file/d/1KyGlLgxp_looSuvyK7qAfEoj_AH2NK_M/view?usp=sharing">CNN_fresh_and_stale_image_classification_(Done).ipynb</a></li>
+  
 </ul>
 <h3>Mobile Development</h3>
 <ul>
