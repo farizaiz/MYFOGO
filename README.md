@@ -24,9 +24,9 @@
 </ul>
 <h3>Mobile Development</h3>
 <ul>
-  <li>xxx</li>
-  <li>xxx</li>
-  <li>xxx</li>
+  <li>Create UI/UX Design on Figma</li>
+  <li>Build application with kotlin programming language on Android Studio</li>
+  <li>Create a Github repository for the project</li>
 </ul>
 <h3>Cloud Computing</h3>
 <ul>
