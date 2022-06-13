@@ -38,8 +38,8 @@
   <li>Managing IAM Roles on GCP</li>
   <li>Enable database firestore on GCP</li>
   <li>Enable MAPS API and create credentials</li>
-  <li>Deploy model ML on Vertex AI</li>
-  <li>Deploy App on App Engine</li>
+  <li>Deploy model ML</li>
+  <li>Deploy App with App Engine</li>
 </ul>
 <h2>Documentation</h2>
 <h3>Prerequisites</h3>
